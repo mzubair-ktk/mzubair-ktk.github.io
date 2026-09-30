@@ -7,6 +7,7 @@ This folder contains a ready-to-run static academic website created from the sup
 - `style.css` — responsive visual design
 - `script.js` — publication search/filter and mobile navigation
 - `Dr_Muhammad_Zubair_CV.pdf` — supplied CV, linked from the website
+- `Dr_Muhammad_Zubair_Profile.jpg` — profile photograph displayed on the homepage
 
 ## How to preview
 Double-click `index.html` to open it in a browser.
