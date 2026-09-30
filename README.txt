@@ -17,3 +17,7 @@ The site is a static HTML/CSS/JavaScript site and can be deployed on GitHub Page
 
 ## Before public deployment
 Review contact details and publication metadata. The website currently uses the information contained in the supplied CV and does not invent missing social-media/ORCID/Google Scholar links.
+
+
+Google Scholar profile linked on the website:
+https://scholar.google.com/citations?hl=en&user=AS9-N2AAAAAJ&view_op=list_works&authuser=2&sortby=pubdate
